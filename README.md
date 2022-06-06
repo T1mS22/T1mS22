@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tim</h1>
 <h3 align="center">IT and security enthusiast from Magdeburg, Germany.</h3>
 
+- 🔭 I like to do **CTFs sometimes!**
+
 - 📫 You can reach me via [**t1ms22.github.io**](https://t1ms22.github.io)
 
 - ⚡&nbsp;Fun fact **I am also a drummer, and my birthday is on the World Thinking Day!**
