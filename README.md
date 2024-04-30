@@ -3,7 +3,7 @@
 
 - 🔭 I like to do **CTFs sometimes!**
 
-- 📫 You can reach me via [**t1ms22.github.io**](https://t1ms22.github.io)
+- 📫 You can reach me via [t-s.dev](https://t-s.dev)
 
 - ⚡&nbsp;Fun fact **I am also a drummer, and my birthday is on the World Thinking Day!**
 
